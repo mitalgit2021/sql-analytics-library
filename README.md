@@ -82,15 +82,7 @@ Every query in this library is:
 
 ## 💼 Interview Relevance
 
-These queries directly map to common interview questions at:
 
-| Company | Most Relevant Queries |
-|---------|----------------------|
-| **Meta** | retention_analysis, rolling_averages, cohort_analysis, top_active_users |
-| **Capital One** | period_over_period, running_totals, anomaly_detection |
-| **Goldman Sachs** | transaction_reconciliation, highest_value_transactions, scd_type2 |
-| **DTCC / Citi** | duplicate_detection, referential_integrity, transaction_reconciliation |
-| **Netflix** | cohort_analysis, rolling_averages, percentile_distribution |
 
 ---
 
